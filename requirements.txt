@@ -1,0 +1,4 @@
+py-cord==2.6.1
+aiohttp==3.11.7
+unidecode
+aiomysql

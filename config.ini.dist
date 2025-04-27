@@ -1,0 +1,24 @@
+[Settings]
+; Der Bot Token
+token=
+guild_id=788499352297406484
+mute-log-channel-id=845270302471487518
+main-log-channel-id=865627567342747669
+message-deletion-log-channel-id=845270302471487518
+
+[Forbidden-Usernames]
+; Nur verbotene namen in ascii zeichen hier definieren. Alle sonderzeichen werden im programm zu ascii zeichen umgewandelt und verglichen
+name1=MyDiscordUserName
+name2=MyOtherName
+
+[Team-Role-IDs]
+; Die Team rollen-IDs die die team-Befehle ausführen können
+admin=866116171699191843
+moderator=975171711060291621
+
+[MariaDB]
+user=mariadb
+password=
+host=localhost
+port=3306
+database=mariadb
