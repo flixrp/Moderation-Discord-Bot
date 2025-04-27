@@ -140,3 +140,7 @@ User=flix_bot
 [Install]
 WantedBy=multi-user.target
 ```
+
+## Show your kindness
+
+Be sure to leave a ⭐️ if you like the project :) Thank you!
